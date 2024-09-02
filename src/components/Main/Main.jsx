@@ -4,7 +4,6 @@ import { TodoContext } from "@/context/TodoContext";
 import { Add } from "@/utilities/icons.utilities.jsx";
 export default function Main() {
   const { todos, addTodo } = useContext(TodoContext);
-  console.log(todos);
   const [todo, setTodo] = useState("");
   const [error, setError] = useState("");
   function onChangeHandler(e) {
