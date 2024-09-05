@@ -78,7 +78,7 @@ export default function Main() {
           </>
         )}
       </div>
-      <section className="container max-w-4xl flex flex-col gap-2 overflow-y-auto h-96">
+      <section className="container max-w-4xl flex flex-col gap-2 overflow-y-auto max-h-96">
         {todos.map((todo) => (
           <Todo key={todo.id} todo={todo} />
         ))}
