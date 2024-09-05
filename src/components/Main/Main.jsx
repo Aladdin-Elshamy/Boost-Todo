@@ -30,7 +30,7 @@ export default function Main() {
     setTodo("");
   }
   return (
-    <main className="bg-background min-h-[calc(100vh-120px)]">
+    <main className="bg-background min-h-[calc(100vh-100px)]">
       <section className="container max-w-4xl relative -top-7 pb-9">
         <form
           action=""
