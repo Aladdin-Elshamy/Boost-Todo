@@ -83,4 +83,4 @@ If you have any questions or feedback, feel free to reach out:
 
 -   **Name**: Aladdin Elshamy
 -   **GitHub**: [Aladdin-Elshamy](https://github.com/Aladdin-Elshamy)
--   **Email**: Your Email
+-   **Email**: aladdinelshamy@gmail.com
