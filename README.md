@@ -1,4 +1,4 @@
-Boost Todo 📝 ✅
+Boost Todo 🚀 ✅
 ===============
 
 Boost Todo is a responsive and efficient task management web application built using **React**, **Context API** for state management, and **Tailwind CSS**. It allows users to easily add, manage, and track their tasks in a clean, modern interface.
@@ -28,8 +28,7 @@ Features ✨
 Demo 🚀
 -------
 
-You can check out the live version of Boost Todo here:\
-Boost Todo Live Demo
+You can check out the live version of Boost Todo here:[Boost Todo](https://boost-todo.vercel.app/)
 
 Technologies Used 🔧
 --------------------
