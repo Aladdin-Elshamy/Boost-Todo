@@ -1,5 +1,7 @@
-Boost Todo 🚀 ✅
+Boost Todo 🚀
 ===============
+
+![Todo](https://github.com/user-attachments/assets/1e5956cc-8cac-4b9b-87b0-c7bb098ebaa4)
 
 Boost Todo is a responsive and efficient task management web application built using **React**, **Context API** for state management, and **Tailwind CSS**. It allows users to easily add, manage, and track their tasks in a clean, modern interface.
 
