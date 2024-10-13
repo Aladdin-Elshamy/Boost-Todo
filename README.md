@@ -21,6 +21,7 @@ Features ✨
 
 -   **Add new tasks** with ease.
 -   **Edit an existing task** with ease.
+-   **Persistent data storage** using **localStorage**, so tasks remain saved even after refreshing the page.
 -   **Mark tasks as completed** or pending.
 -   **Remove or delete tasks**.
 -   **Responsive** and mobile-friendly design.
