@@ -6,13 +6,13 @@ Boost Todo is a responsive and efficient task management web application built u
 Table of Contents
 -----------------
 
--   [Features](#features) ✨
--   [Demo](#demo) 🚀
--   [Technologies Used](#technologies-used) 🔧
--   [Installation](#installation) 💻
--   [Usage](#usage) 🛠️
--   [Folder Structure](#folder-structure) 📂
--   [Contributing](#contributing) 🤝
+-   [Features](#features) 
+-   [Demo](#demo) 
+-   [Technologies Used](#technologies-used) 
+-   [Installation](#installation) 
+-   [Usage](#usage) 
+-   [Folder Structure](#folder-structure) 
+-   [Contact](#contact) 
 
 Features ✨
 ----------
@@ -28,7 +28,7 @@ Features ✨
 Demo 🚀
 -------
 
-You can check out the live version of Boost Todo here:[Boost Todo](https://boost-todo.vercel.app/)
+You can check out the live version of Boost Todo here: [Boost Todo](https://boost-todo.vercel.app/)
 
 Technologies Used 🔧
 --------------------
@@ -76,8 +76,11 @@ Usage 🛠️
 3.  **Mark tasks as completed** by clicking the checkbox next to each task.
 4.  **Delete a task** by clicking the trash icon next to it.
 
-Contributing 🤝
----------------
+Contact 📞
+----------
 
-Contributions, issues, and feature requests are welcome!\
-Feel free to check the [issues page](https://github.com/Aladdin-Elshamy/Boost-Todo/issues) if you'd like to contribute.
+If you have any questions or feedback, feel free to reach out:
+
+-   **Name**: Aladdin Elshamy
+-   **GitHub**: [Aladdin-Elshamy](https://github.com/Aladdin-Elshamy)
+-   **Email**: Your Email
