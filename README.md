@@ -6,16 +6,16 @@ Boost Todo is a responsive and efficient task management web application built u
 Table of Contents
 -----------------
 
--   [Features](#features) ✨
--   [Demo](#demo) 🚀
--   [Technologies Used](#technologies-used) 🔧
--   [Installation](#installation) 💻
--   [Usage](#usage) 🛠️
--   [Folder Structure](#folder-structure) 📂
--   [Contributing](#contributing) 🤝
+-   [Features](#features)
+-   [Demo](#demo)
+-   [Technologies Used](#technologies-used)
+-   [Installation](#installation)
+-   [Usage](#usage) 
+-   [Folder Structure](#folder-structure)
+-   [Contributing](#contributing)
 
 
-Features ✨
+## Features ✨
 --------
 
 -   Add new tasks with ease.
@@ -26,13 +26,13 @@ Features ✨
 -   State management powered by React's Context API.
 -   Clean and minimalist user interface.
 
-Demo
+## Demo
 ----
 
 You can check out the live version of Boost Todo here:\
 Boost Todo Live Demo
 
-Technologies Used
+## Technologies Used
 -----------------
 
 -   **React**: JavaScript library for building user interfaces.
@@ -41,7 +41,7 @@ Technologies Used
 -   **Tailwind CSS**: Utility-first CSS framework for fast UI development.
 -   **Vite**: A fast build tool for modern web development.
 
-Installation
+## Installation
 ------------
 
 To run the project locally, follow these steps:
@@ -66,7 +66,7 @@ To run the project locally, follow these steps:
 
     `http://localhost:3000`
 
-Usage
+## Usage
 -----
 
 1.  On the homepage, you can view your list of tasks.
@@ -74,7 +74,7 @@ Usage
 3.  Mark tasks as completed by clicking the checkbox next to each task.
 4.  To delete a task, click the trash icon next to the task.
 
-Contributing 🤝
+## Contributing 🤝
 ---------------
 
 Contributions, issues, and feature requests are welcome!\
