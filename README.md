@@ -6,14 +6,16 @@ Boost Todo is a responsive and efficient task management web application built u
 Table of Contents
 -----------------
 
--   [Features](#features)
--   [Demo](#demo)
--   [Technologies Used](#technologies-used)
--   [Installation](#installation)
--   [Usage](#usage)
--   [Contributing](#contributing)
+-   [Features](#features) ✨
+-   [Demo](#demo) 🚀
+-   [Technologies Used](#technologies-used) 🔧
+-   [Installation](#installation) 💻
+-   [Usage](#usage) 🛠️
+-   [Folder Structure](#folder-structure) 📂
+-   [Contributing](#contributing) 🤝
 
-Features
+
+Features ✨
 --------
 
 -   Add new tasks with ease.
