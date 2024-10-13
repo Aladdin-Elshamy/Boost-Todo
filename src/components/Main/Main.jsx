@@ -2,6 +2,7 @@ import { useState, useContext } from "react";
 import Todo from "./Todo";
 import { TodoContext } from "@/context/TodoContext";
 import { Add } from "@/utilities/icons.utilities.jsx";
+import clsx from "clsx";
 export default function Main() {
   const { todos, addTodo } = useContext(TodoContext);
   const [todo, setTodo] = useState("");
@@ -17,7 +18,9 @@ export default function Main() {
       setError("Please write something");
       return;
     }
-    const todoAlreadyExists = todos.some((t) => t.text === todo);
+    const todoAlreadyExists = todos.some(
+      (t) => t.text.toLowerCase() === todo.toLowerCase()
+    );
     if (todoAlreadyExists) {
       setError("Todo already exists");
       return;
@@ -30,7 +33,12 @@ export default function Main() {
     setTodo("");
   }
   return (
-    <main className="bg-background min-h-[calc(100vh-100px)]">
+    <main
+      className={clsx("bg-background", {
+        "min-h-[calc(100vh-232px)]": !todos.length,
+        "min-h-[calc(100vh-100px)]": todos.length,
+      })}
+    >
       <section className="container max-w-4xl relative -top-7 pb-9">
         <form
           action=""

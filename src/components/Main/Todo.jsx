@@ -4,6 +4,7 @@ import { TodoContext } from "@/context/TodoContext";
 import PropTypes from "prop-types";
 import ReactLinkify from "react-linkify";
 import { Edit } from "@/utilities/icons.utilities";
+import clsx from "clsx";
 
 export default function Todo({ todo }) {
   const { deleteTodo, editTodo, toggleTodo } = useContext(TodoContext);
@@ -20,9 +21,9 @@ export default function Todo({ todo }) {
           {todo.completed ? <Checked /> : <Unchecked />}
         </button>
         <p
-          className={`text-text text-sm ${
-            todo.completed && "line-through text-completed"
-          }`}
+          className={clsx("text-text text-sm", {
+            "line-through text-completed": todo.completed,
+          })}
         >
           <ReactLinkify componentDecorator={componentDecorator}>
             {todo.text}
