@@ -66,7 +66,7 @@ To run the project locally, follow these steps:
 
     `http://localhost:3000`
 
-## Usage
+## Usage 🛠️
 -----
 
 1.  On the homepage, you can view your list of tasks.
