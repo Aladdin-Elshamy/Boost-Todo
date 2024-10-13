@@ -10,7 +10,7 @@ Table of Contents
 -   [Demo](#demo)
 -   [Technologies Used](#technologies-used)
 -   [Installation](#installation)
--   [Usage](#usage) 🛠️
+-   [Usage](#usage)🛠️
 -   [Folder Structure](#folder-structure)
 -   [Contributing](#contributing)
 
