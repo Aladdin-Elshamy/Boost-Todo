@@ -13,7 +13,6 @@ Table of Contents
 -   [Technologies Used](#technologies-used) 
 -   [Installation](#installation) 
 -   [Usage](#usage) 
--   [Folder Structure](#folder-structure) 
 -   [Contact](#contact) 
 
 Features ✨
