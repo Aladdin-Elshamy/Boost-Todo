@@ -1,7 +1,7 @@
 Boost Todo
 ==========
 
-Boost Todo is a responsive and efficient task management web application built using React, Context API for state management, and Tailwind CSS. It allows users to add, manage, and track their tasks easily in a clean, modern interface.
+Boost Todo is a responsive and efficient task management web application built using React, Context API for state management, and Tailwind CSS. It allows users to easily add, manage, and track tasks in a clean, modern interface.
 
 Table of Contents
 -----------------
@@ -11,12 +11,14 @@ Table of Contents
 -   [Technologies Used](#technologies-used)
 -   [Installation](#installation)
 -   [Usage](#usage)
+-   [Contributing](#contributing)
 
 Features
 --------
 
 -   Add new tasks with ease.
--   Mark tasks as completed or pending.
+-   Edit an existing task.
+-   Mark tasks as completed.
 -   Remove or delete tasks.
 -   Responsive and mobile-friendly design.
 -   State management powered by React's Context API.
@@ -44,29 +46,21 @@ To run the project locally, follow these steps:
 
 1.  Clone the repository:
 
-    bash
-
     `git clone https://github.com/Aladdin-Elshamy/Boost-Todo.git`
 
 2.  Navigate to the project directory:
 
-    bash
-
     `cd Boost-Todo`
 
 3.  Install the dependencies:
-
-    bash
-
+   
     `npm install`
 
-4.  Start the development server:
-
-    bash
-
+5.  Start the development server:
+   
     `npm run dev`
 
-5.  Open your browser and visit:
+7.  Open your browser and visit:
 
     `http://localhost:3000`
 
@@ -76,4 +70,10 @@ Usage
 1.  On the homepage, you can view your list of tasks.
 2.  Use the input field to add a new task by typing in the task description and hitting "Enter."
 3.  Mark tasks as completed by clicking the checkbox next to each task.
-4.  To delete a task, simply click the trash icon next to the task.
+4.  To delete a task, click the trash icon next to the task.
+
+Contributing 🤝
+---------------
+
+Contributions, issues, and feature requests are welcome!\
+Feel free to check the [issues page](https://github.com/Aladdin-Elshamy/Boost-Todo/issues) if you'd like to contribute.
